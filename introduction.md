@@ -5,3 +5,4 @@ My favourite Code School path: Javascript.
 * Basic (! also ouat)
 * git (learning)
 * touched ember.js and red5
+* Killing history using git rebase
